@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * jungol 624 : 포인터 - 자가진단6
+ * http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=261&sca=10h0
+ */
+
 int main()
 {
     int n;
