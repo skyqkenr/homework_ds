@@ -12,10 +12,6 @@
 
 - [성적 입력&처리: 스택 구현 요구사항](../practice_score/README_스택추가.md)
 
-# day4 - Stack
-
-## 스택 구현
-
 ---
 
 # 참고
